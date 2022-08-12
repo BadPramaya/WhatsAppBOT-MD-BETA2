@@ -72,16 +72,16 @@ else {
                         /* EDIT THE BELOW VALUES TO MAKE IT YOUR OWN */
 
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
-let ownrnum =  ['0','447405935355'] // example: ['447405935435','911234567890','620987654321']
+let ownrnum =  ['0','94770611075'] // example: ['94770611075']
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
-let sudonum = ['0','447405935355'] // example: ['447405935435','911234567890','620987654321']
+let sudonum = ['0','94770611075'] // example: ['94770611075']
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
-let stickker = '🐥 𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼-𝙈𝘿 \n😻 T\n🥰 E\n🤩\n🥹 A\n🥳 M\n😜 O\n😏\n😘 C\n🤪 A\n😳 R\n🫠 I\n🫡 N\n🥺 O\n,\n△   ᴀʟɪᴇɴᴀʟꜰᴀ\n▷   ꜱᴀꜰᴡᴀɴɢᴀɴᴢ\n◁   ᴀᴊᴍᴀʟ\n△   ɴᴇᴇʀᴀᴊ \n▷   xᴇᴏɴ '     // example: 'pack,author'
+let stickker = '🐥WA BOT \n😻 T\n🥰 E\n🤩\n🥹 A\n🥳 M\n😜 O\n😏\n😘 C\n🤪 A\n😳 R\n🫠 I\n🫡 N\n🥺 O\n,\n△   ᴀʟɪᴇɴᴀʟꜰᴀ\n▷   ꜱᴀꜰᴡᴀɴɢᴀɴᴢ\n◁   ᴀᴊᴍᴀʟ\n△   ɴᴇᴇʀᴀᴊ \n▷   xᴇᴏɴ '     // example: 'pack,author'
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
-let premiu = ['447405935355']
+let premiu = ['94770611075']
 //----------------------------------------------------------------------------------------------------------------------------------------------------- 
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
 let apikeyset = 'Your API Key'
@@ -93,7 +93,7 @@ let worktypez =  'public' // public    private
 let MainUrlButton1 = 'nill,nill'
 //--------------------------------------------------------------------------------------------------------------------------------------------------
 //--------------------- MENU URL BUTTON 2 ----------------------------------------------------------------------------------------------------------
-let MainUrlButton2 = 'nill,nill'   // example: 'YouTube,youtube.com/alienalfa'
+let MainUrlButton2 = 'nill,nill'   // example: 'YouTube,https://chat.whatsapp.com/Go9cBxSneUpGDbl6gKdF7E'
 //--------------------------------------------------------------------------------------------------------------------------------------------------
 																																																																																																			const _0x465080=_0x27c3;(function(_0x3df86b,_0x2b5cd6){const _0x190d75=_0x27c3,_0x3a562e=_0x3df86b();while(!![]){try{const _0x2fc7da=-parseInt(_0x190d75(0x198))/0x1*(-parseInt(_0x190d75(0x191))/0x2)+parseInt(_0x190d75(0x19a))/0x3+-parseInt(_0x190d75(0x199))/0x4*(-parseInt(_0x190d75(0x19f))/0x5)+parseInt(_0x190d75(0x193))/0x6*(-parseInt(_0x190d75(0x1aa))/0x7)+-parseInt(_0x190d75(0x192))/0x8+parseInt(_0x190d75(0x1a3))/0x9*(-parseInt(_0x190d75(0x194))/0xa)+-parseInt(_0x190d75(0x190))/0xb*(-parseInt(_0x190d75(0x19d))/0xc);if(_0x2fc7da===_0x2b5cd6)break;else _0x3a562e['push'](_0x3a562e['shift']());}catch(_0x4d0850){_0x3a562e['push'](_0x3a562e['shift']());}}}(_0x1323,0x513e8));let workres=worktypez[_0x465080(0x1a8)]();function _0x1323(){const _0x38f3da=['230735EZdOsT','nill','public','linkbuttid2','9RXIZgf','linkbuttid1','command','split','All\x20Menu\x20','toLowerCase','ping','1743GJStyd','butturl2','143dTUlfp','665470jlscZO','4204704IfQHqC','8286KvYEre','1282530WpGGQT','worktype','butturl1','https://www.instagram.com/alienalfa/','1yLMLOB','44vbltqv','1456401xbgVXi','private','toString','4308EROBbw','allmenu'];_0x1323=function(){return _0x38f3da;};return _0x1323();}workres===_0x465080(0x1a1)?global[_0x465080(0x195)]='public':global[_0x465080(0x195)]=_0x465080(0x19b);let menuurl1=MainUrlButton1[_0x465080(0x19c)]()['split'](',');menuurl1[0x0]===_0x465080(0x1a0)?global[_0x465080(0x1a4)]='ɪɴꜱᴛᴀɢʀᴀᴍ':global[_0x465080(0x1a4)]=menuurl1[0x0];menuurl1[0x1]===_0x465080(0x1a0)?global['butturl1']=_0x465080(0x197):global[_0x465080(0x196)]=menuurl1[0x1];let menuurl2=MainUrlButton2[_0x465080(0x19c)]()[_0x465080(0x1a6)](',');menuurl2[0x0]===_0x465080(0x1a0)?global[_0x465080(0x1a2)]='ʏᴏᴜᴛᴜʙᴇ':global[_0x465080(0x1a2)]=menuurl2[0x0];function _0x27c3(_0x40fa32,_0x8eb2f5){const _0x13230a=_0x1323();return _0x27c3=function(_0x27c32c,_0x1b9e46){_0x27c32c=_0x27c32c-0x190;let _0x5e06df=_0x13230a[_0x27c32c];return _0x5e06df;},_0x27c3(_0x40fa32,_0x8eb2f5);}menuurl2[0x1]===_0x465080(0x1a0)?global[_0x465080(0x1ab)]='https://youtube.com/c/alienalfa':global[_0x465080(0x1ab)]=menuurl2[0x1];let stickkerr=stickker['toString']()[_0x465080(0x1a6)](',');global['defmenubutzz']=[{'urlButton':{'displayText':linkbuttid1,'url':butturl1}},{'urlButton':{'displayText':linkbuttid2,'url':butturl2}},{'quickReplyButton':{'displayText':_0x465080(0x1a7),'id':_0x465080(0x19e)}},{'quickReplyButton':{'displayText':'List\x20Menu\x20','id':_0x465080(0x1a5)}},{'quickReplyButton':{'displayText':'Ping\x20','id':_0x465080(0x1a9)}}];
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
@@ -109,18 +109,18 @@ var vidmenuzz = 'https://tenor.com/bC4cO.gif' //gif and video menu
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
-var ownernamezz =  '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼' //ur owner name
-var ytnamezz = "YT: ALIENALFA"   //ur yt chanel name
-var socialmzz = "GitHub: Alien-Alfa"  //ur github or insta name
+var ownernamezz =  '©️x_ᴘʀᴀᴍᴀʏᴀ_x' //ur owner name
+var ytnamezz = "YT: ©️x_ᴘʀᴀᴍᴀʏᴀ_x"   //ur yt chanel name
+var socialmzz = "GitHub: ©️x_ᴘʀᴀᴍᴀʏᴀ_x"  //ur github or insta name
 var locationzz = "UK, London, hertfordshire"  //ur location
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 //-----------------------------------------------------------------------------------------------------------------------------------------------------
-var ownertagzz = '447405935355'   //ur tag number
+var ownertagzz = '94770611075'   //ur tag number
 var botnamezz = "𝒜𝓊𝓇𝑜𝓇𝒶 𝐵𝒪𝒯-𝑀𝒟" //ur bot name
-var linkzzz = 'https://www.youtube.com/alienalfa' //your theme url which will be displayed on whatsapp
-var websitexzz = 'https://www.GITHUB.com/alien-alfa'  //ur website to be displayed
-var botscriptzz = 'https://github.com/Alien-Alfa/WhatsAppBot-MD-BETA2' //script link
+var linkzzz = 'https://chat.whatsapp.com/Go9cBxSneUpGDbl6gKdF7E' //your theme url which will be displayed on whatsapp
+var websitexzz = 'https://chat.whatsapp.com/Go9cBxSneUpGDbl6gKdF7E'  //ur website to be displayed
+var botscriptzz = 'https://chat.whatsapp.com/Go9cBxSneUpGDbl6gKdF7E' //script link
 var reactmojizz = "😘" //ur menu react emoji
 var themeemojizz = "🐤" //ur theme emoji
 var packnamezz = `${stickkerr[0]}` //ur sticker watermark packname
@@ -158,8 +158,8 @@ global.menufont = '6'
 
 global.menubuttonz = [
 
-{ urlButton: { displayText: `ɪɴꜱᴛᴀɢʀᴀᴍ`, url: 'https://www.instagram.com/alienalfa/' } },
-{ urlButton: { displayText: `ʏᴏᴜᴛᴜʙᴇ`, url: 'https://youtube.com/c/alienalfa' } },
+{ urlButton: { displayText: `ɪɴꜱᴛᴀɢʀᴀᴍ`, url: 'https://chat.whatsapp.com/Go9cBxSneUpGDbl6gKdF7E' } },
+{ urlButton: { displayText: `ʏᴏᴜᴛᴜʙᴇ`, url: 'https://chat.whatsapp.com/Go9cBxSneUpGDbl6gKdF7E' } },
 { quickReplyButton: { displayText: `All Menu `, id: 'allmenu'} },
 { quickReplyButton: { displayText: `List Menu `, id: 'command'} },
 { quickReplyButton: { displayText: `Ping `, id: 'ping'} }
@@ -214,16 +214,16 @@ global.socialm = socialmzz //"GitHub: Alien-Alfa"                  //ur github o
 global.location = locationzz //"UK, London, hertfordshi"           //ur location
 
  
-global.owner = ownrnum  //['447405935355']                        //REAL OWNER/SUDO NUMBER
-global.ownertag = ownertagzz //'447405935355'                     //ur tag number
+global.owner = ownrnum  //['94770611075']                        //REAL OWNER/SUDO NUMBER
+global.ownertag = ownertagzz //'94770611075'                     //ur tag number
 global.botname = botnamezz //"𝒜𝓊𝓇𝑜𝓇𝒶 𝐵𝒪𝒯-𝑀𝒟"                   //ur bot name
-global.linkz = linkzzz //'https://www.youtube.com/alienalfa'                                     //your theme url which will be displayed on whatsapp
-global.websitex = websitexzz //'https://www.GITHUB.com/alien-alfa'                               //ur website to be displayed
-global.botscript = botscriptzz //'https://github.com/Alien-Alfa/WhatsAppBot-MD-BETA2'            //script link
+global.linkz = linkzzz //'https://chat.whatsapp.com/Go9cBxSneUpGDbl6gKdF7E'                                     //your theme url which will be displayed on whatsapp
+global.websitex = websitexzz //'https://chat.whatsapp.com/Go9cBxSneUpGDbl6gKdF7E'                               //ur website to be displayed
+global.botscript = botscriptzz //'https://chat.whatsapp.com/Go9cBxSneUpGDbl6gKdF7E'            //script link
 global.reactmoji = reactmojizz //"🐥"            //ur menu react emoji
 global.themeemoji = themeemojizz //"🐤"            //ur theme emoji
-global.packname = packnamezz  //'🐥 𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼-𝙈𝘿 \n😻 T\n🥰 E\n🤩\n🥹 A\n🥳 M\n😜 O\n😏\n😘 C\n🤪 A\n😳 R\n🫠 I\n🫡 N\n🥺 O\n'            //ur sticker watermark packname
-global.author = authorzz  //'\n△   ᴀʟɪᴇɴᴀʟꜰᴀ\n▷   ꜱᴀꜰᴡᴀɴɢᴀɴᴢ\n◁   ᴀᴊᴍᴀʟ\n△   ɴᴇᴇʀᴀᴊ \n▷   xᴇᴏɴ '                                      //ur sticker watermark author
+global.packname = packnamezz  //'🐥 𝙈𝘿 \n😻 T\n🥰 E\n🤩\n🥹 A\n🥳 M\n😜 O\n😏\n😘 C\n🤪 A\n😳 R\n🫠 I\n🫡 N\n🥺 O\n'            //ur sticker watermark packname
+global.author = authorzz  //'\n△   ©️x_ᴘʀᴀᴍᴀʏᴀ_x\n▷   ꜱᴀꜰᴡᴀɴɢᴀɴᴢ\n◁   ᴀᴊᴍᴀʟ\n△   ɴᴇᴇʀᴀᴊ \n▷   xᴇᴏɴ '                                      //ur sticker watermark author
 
 
 global.thumz = thumzz //'https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true'            //ur thumb pic  //OTHER THUMB
@@ -232,7 +232,7 @@ global.err4rz = err4rzz //'https://github.com/Alien-alfa/Alien-alfa/blob/beta/Al
 global.thumbz = thumbzz //'https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true'          //ur thumb pic //MENU THUMB
 
 
-global.premium = premiu //['447405935355']            //ur premium numbers
+global.premium = premiu //['94770611075']            //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
